@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maulana Fiqri Nurul Fawaid</h1>
-<h3 align="center">! Saya seorang Fullstack Developer dengan minat utama dalam pengembangan perangkat lunak end-to-end. Dengan pengalaman saya dalam mengatasi tantangan dari sisi server hingga antarmuka pengguna, saya berkomitmen untuk memberikan solusi teknologi yang kreatif dan efisien.</h3>
+<h3 align="center">Saya seorang Fullstack Developer dengan minat utama dalam pengembangan perangkat lunak end-to-end. Dengan pengalaman saya dalam mengatasi tantangan dari sisi server hingga antarmuka pengguna, saya berkomitmen untuk memberikan solusi teknologi yang kreatif dan efisien.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maulanafiqrinf&label=Profile%20views&color=0e75b6&style=flat" alt="maulanafiqrinf" /> </p>
 
