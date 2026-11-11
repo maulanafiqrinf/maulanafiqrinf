@@ -1,19 +1,19 @@
 <div align="center">
-  <!-- 🌊 1. Wave Header Bergerak -->
+  <!-- 🌊 Wave Header Dinamis -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=180&section=header&text=Maulana%20Fiqri&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descFontSize=18&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
-  <!-- ⌨️ 2. Animasi Teks Mengetik Otomatis -->
+  <!-- ⌨️ Teks Animasi Mengetik Otomatis -->
   <a href="https://mfiqrinf.vercel.app" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+there%2C+I+am+Maulana+Fiqri!;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Enterprise+Web+%26+ML+Solutions" alt="Typing Header" />
   </a>
 
-  <!-- 💻 3. Banner Animasi GIF Developer -->
+  <!-- 💻 GIF Developer Bergerak -->
   <br />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF" />
   <br />
 
   <p align="center">
-    <strong>Full-Stack Developer</strong> berfokus pada arsitektur web modern, sistem core enterprise, serta integrasi Machine Learning & Deep Learning.
+    <strong>Full-Stack Developer</strong> berfokus pada arsitektur web modern, sistem enterprise terintegrasi, serta eksplorasi Machine Learning & Deep Learning.
   </p>
 
   <!-- Connect & Portfolio Badges -->
@@ -91,35 +91,21 @@
 
 ---
 
-### 🐍 Contribution Activity Graph
+### 📊 GitHub Productivity & Streak
 
 <div align="center">
-  <!-- Grafik Kontribusi Dinamis -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maulanafiqrinf&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Animasi Ular Memakan Commit Graph -->
-  <img src="https://raw.githubusercontent.com/maulanafiqrinf/maulanafiqrinf/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation" onerror="this.style.display='none'" />
-</div>
-
----
-
-### 📊 GitHub Productivity & Metrics
-
-<div align="center">
-  <!-- Streak Stats Card -->
+  <!-- GitHub Streak Stats (Bergerak api & streak live) -->
   <a href="https://github.com/maulanafiqrinf">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maulanafiqrinf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maulanafiqrinf&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
+  <!-- Random Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
   <br /><br />
+  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=maulanafiqrinf&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
